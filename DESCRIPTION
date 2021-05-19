@@ -1,6 +1,6 @@
 Package: GeneExpressionSignature
 Title: Gene Expression Signature based Similarity Metric
-Version: 1.37.1
+Version: 1.38.0
 Date: 2012-12-16
 Authors@R: 
     c(person(given = "Yang",
